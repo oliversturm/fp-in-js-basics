@@ -1,7 +1,6 @@
 const { produce, freeze } = require('immer');
 
 // This is a source object. We don't want to change it in-place, so
-
 // we freeze it right away.
 const oli = freeze({ name: 'Oli', age: 23, list: [] });
 

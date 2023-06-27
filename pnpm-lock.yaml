@@ -1,0 +1,12 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  immer:
+    specifier: 10.0.2
+    version: 10.0.2
+
+packages:
+
+  /immer@10.0.2:
+    resolution: {integrity: sha512-Rx3CqeqQ19sxUtYV9CU911Vhy8/721wRFnJv3REVGWUmoAcIwzifTsdmJte/MV+0/XpM35LZdQMBGkRIoLPwQA==}
+    dev: false

@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/oliversturm/fp-in-js-basics#readme",
   "dependencies": {
-    "immer": "9.0.15"
+    "immer": "10.0.2"
   }
 }
